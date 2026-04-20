@@ -1,0 +1,8 @@
+print("What is your first name?")
+first_name = input()
+print("What is your age?")
+age = input()
+print("What is your fav hobby?")
+hobby = input()
+print("Profile Created")
+print(first_name + " is " + age + " years old and enjoys " + hobby)
